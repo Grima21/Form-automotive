@@ -62,4 +62,4 @@ Este formulario está pensado como parte de una landing page de concesionaria au
 💼 Autor
 
 Grimaldo Sánchez
-Desarrollador Front-End especializado en React.js, TypeScript y UI/UX moderno.
+Desarrollador Front-End especializado en React.js y UI/UX moderno.
