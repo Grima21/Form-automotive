@@ -26,16 +26,22 @@ Formulario profesional construido con **React.js, TypeScript y Tailwind CSS**, i
 ---
 
 ## 🖼️ Vista previa
-
-![Formulario automotriz](./screenshots/formulario-desktop.png)
-
-> _Pantalla principal del formulario en escritorio_
+<img width="1865" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/8d0993c2-73cf-4592-bf6f-27a48a7db36c" />
+<img width="1864" height="1079" alt="imagen" src="https://github.com/user-attachments/assets/342fb0da-4c09-4554-bef6-cac05c8d2550" />
 
 ---
+
+
 
 ## 🚀 ¿Para qué sirve este proyecto?
 
 Este formulario está pensado como parte de una landing page de concesionaria automotriz. Permite que los usuarios ingresen sus datos para solicitar cotización o contacto con un asesor, de forma rápida y clara.
+
+---
+
+## 🌐 Sitio desplegado
+
+👉 [Ver Formulario automotriz Online](https://form-automotive.vercel.app/)
 
 ---
 
